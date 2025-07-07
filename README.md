@@ -17,3 +17,19 @@ This thingy also has mouse support so you can click on progress bar IN TERMINAL 
 - pkg-config (compile time)
 
 I recommend opening it in tmux, cuz colors are fcked for some reason.
+
+## BUILD
+
+```sh
+make
+```
+
+---
+
+# TODOs
+
+- [ ] fix segfaults if music is not playing...
+- [ ] **multi**player support and switching between them
+- [ ] configuration file for layout modification
+- [ ] hellwal support ( system colors based on music artcover? sick imo )
+- [ ] if this is even possible cava support
